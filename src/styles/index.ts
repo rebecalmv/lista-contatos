@@ -52,7 +52,7 @@ export const Botao = styled.button`
 `
 
 export const BotaoSalvar = styled(Botao)`
-  background-color: ${variaveis.verde};
+  background-color: ${variaveis.preto};
 `
 
 export default EstiloGlobal
