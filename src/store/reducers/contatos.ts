@@ -12,37 +12,37 @@ const initialState: ContatosState = {
       id: 1,
       nome: 'Mãe',
       prioridade: enums.Prioridade.FAMILIA,
-      info: '021991336551'
+      info: '021991336551 ritav29@gmail.com'
     },
     {
       id: 2,
       nome: 'Matheus',
       prioridade: enums.Prioridade.AMIGOS,
-      info: '021983629576'
+      info: '021983629576 mt_guimaraes@yahoo.com'
     },
     {
       id: 3,
       nome: 'Thiago',
       prioridade: enums.Prioridade.TRABALHO,
-      info: '021979016733'
+      info: '021979016733 th_gomesb@yahoo.com.br'
     },
     {
       id: 4,
       nome: 'Luisa',
       prioridade: enums.Prioridade.AMIGOS,
-      info: '021987352374'
+      info: '021987352374 luisa_vrs@gmail.com'
     },
     {
       id: 5,
       nome: 'Pai',
       prioridade: enums.Prioridade.FAMILIA,
-      info: '021993138832'
+      info: '021993138832 wvalle@gmail.com'
     },
     {
       id: 6,
       nome: 'Aline',
       prioridade: enums.Prioridade.TRABALHO,
-      info: '021975428967'
+      info: '021975428967 alinefreitas93@outlook.com'
     }
   ]
 }
