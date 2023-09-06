@@ -41,7 +41,7 @@ const BarraLateral = ({ mostrarFiltros }: Props) => {
               <FiltroCard
                 valor={enums.Prioridade.TRABALHO}
                 criterio="prioridade"
-                legenda="cliente"
+                legenda="trabalho"
               />
               <FiltroCard criterio="todos" legenda="todos" />
             </S.Filtros>
